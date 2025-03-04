@@ -1,5 +1,3 @@
-import os
-import json
 import requests
 from linebot import LineBotApi, WebhookHandler
 from linebot.models import *
